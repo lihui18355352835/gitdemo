@@ -6,6 +6,6 @@ package com.qf.gitdemo.controller;
  */
 public class HelloFirst {
     public static void main(String[] args) {
-        System.out.println("Hello Demo");
+        System.out.println("Hello Demo 项目经理提交");
     }
 }
